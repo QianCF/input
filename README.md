@@ -10,11 +10,9 @@ Text editer V6.
 按方向键来移动  
 Ctrl+= 切换输入法  
 Ctrl+_ 码点输入  
-Ctrl+] 复制 Ctrl+[ 粘贴  
-Ctrl+Shift+]  
-同步剪贴板到系统  
-Ctrl+Shift+[  
-从系统同步剪贴板  
+Ctrl+] 复制 Ctrl+[粘贴  
+Ctrl+Shift+] 同步剪贴板到系统  
+Ctrl+Shift+[ 从系统同步剪贴板  
 Ctrl+; 打开 Ctrl+' 保存  
 Ctrl+左右 查找剪贴板  
 Ctrl+Shift+左右 贪婪查找  
